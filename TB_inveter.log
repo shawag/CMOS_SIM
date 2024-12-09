@@ -1,0 +1,13 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\code\github\CMOS_SIM\TB_inveter.asc
+Start Time: Mon Dec  9 20:49:36 2024
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = modified trap
+Limiting rise time of source v2 to 5e-08
+Limiting fall time of source v2 to 5e-08
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.044 seconds.
+
